@@ -1,6 +1,10 @@
 Chef Setup notes
 ================
 
+Install VirtualBox
+
+Setup internal network
+
 Install CentOS 7
 
 Setup networking
